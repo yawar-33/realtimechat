@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+*.log
+mobile/ios/build/
+mobile/android/build/
+mobile/.bundle/
+server/node_modules/
+dist/
+.env
+build_log.txt
+build_log_new.txt
+build_log_sdk.txt
